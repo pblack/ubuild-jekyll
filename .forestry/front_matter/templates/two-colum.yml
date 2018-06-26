@@ -5,6 +5,17 @@ fields:
 - type: blocks
   label: Column A
   name: column_a
+  template_types:
+  - navigation-header
+  - text-1
+  - simple-header
+  - 2-column-text
+  - simple-footer
+  - text-only-hero-banner
 - type: blocks
   label: Column B
   name: column_b
+  template_types:
+  - hero-banner-w-image
+  - content-feature
+  - text-column
