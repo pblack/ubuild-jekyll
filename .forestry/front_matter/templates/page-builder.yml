@@ -17,6 +17,7 @@ fields:
   name: page_sections
   label: Page Sections
   template_types:
+  - two-colum
   - navigation-header
   - navigation-header-w-button
   - simple-header
