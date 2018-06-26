@@ -1,0 +1,10 @@
+---
+hide_body: false
+is_partial: true
+fields:
+- type: blocks
+  label: Column A
+  name: column_a
+- type: blocks
+  label: Column B
+  name: column_b
