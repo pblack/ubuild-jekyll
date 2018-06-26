@@ -17,5 +17,9 @@ fields:
   - type: number
     name: project_id
     label: project ID
+    description: the projID
+    config:
+      min: '1'
+      required: true
   label: Project Ids
   name: project_ids
