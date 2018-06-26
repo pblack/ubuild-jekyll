@@ -12,3 +12,10 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- type: field_group_list
+  fields:
+  - type: number
+    name: project_id
+    label: project ID
+  label: Project Ids
+  name: project_ids
