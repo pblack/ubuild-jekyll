@@ -1,7 +1,16 @@
 ---
+label: Two Colum
 hide_body: false
 is_partial: true
 fields:
+- type: blocks
+  label: Column B
+  name: column_b
+  template_types:
+  - signup-bar
+  - hero-banner-w-image
+  - content-feature
+  - text-column
 - type: blocks
   label: Column A
   name: column_a
@@ -12,10 +21,3 @@ fields:
   - 2-column-text
   - simple-footer
   - text-only-hero-banner
-- type: blocks
-  label: Column B
-  name: column_b
-  template_types:
-  - hero-banner-w-image
-  - content-feature
-  - text-column
