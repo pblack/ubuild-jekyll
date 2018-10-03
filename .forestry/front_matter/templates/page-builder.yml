@@ -34,5 +34,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- foo.md
 - index.md
+- foo.md
